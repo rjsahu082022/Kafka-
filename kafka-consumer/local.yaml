@@ -1,0 +1,12 @@
+# Database Credentials
+name: "mydb"
+uri: "mongodb://localhost:27017"
+
+
+server:
+  host: "localhost"
+  port: 8088
+
+consumer:
+  address: "localhost:9092" 
+  topic:  ["my-topic"]
