@@ -1,0 +1,7 @@
+server:
+  host: "localhost"
+  port: 8087
+
+producer:
+  address: "localhost:9092" 
+  topic: ["my-topic","my-topic-1"]
