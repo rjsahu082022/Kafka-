@@ -36,6 +36,7 @@ Multiple Topic:-
   2. localhost:8087/message2
 
   Multiple Consumer:-
+  
+  If we want to consume from multiple consumer then we have to start two consumer on different address. 
 
-  If we want to read from multiple consumer then we have to start two consumer on different address. 
 
